@@ -1,3 +1,5 @@
+# mutiplication table using by for loop
+
 a = input("enter a number ")
 print("mutiplication table of {a}  is :")
 
